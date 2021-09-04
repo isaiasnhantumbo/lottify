@@ -1,0 +1,28 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  max-width: 1280px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 1rem;
+  line-height: 19px;
+  color: #ffffff;
+  border-color: transparent;
+}
