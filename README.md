@@ -48,11 +48,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 ## ⛈  Desafios do projecto
-  - [x] Realizar requisições para sua própria API Next.js que vai retornar os dados do FaunaDB (banco de dados) e do ImgBB (serviço de hospedagem de imagens)
-  - [x] Infinite Queries e Mutations com React Query
-  - [x] Envio de formulário com React Hook Form
-  - [x] Exibição de Modal e Toast com Chakra UI
-  - [x] Formatar os dados recebidos do React Query
+  - [x] Fazer Login
+  - [x] Criar nova conta 
 
 ---
 
